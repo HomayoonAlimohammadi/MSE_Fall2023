@@ -1,0 +1,7 @@
+env/
+.DS_Store
+.ipynb_checkpoints/
+Hex_train_test3.npz
+bto_atomic.jpg
+training_data.npy
+validation_data.npy
